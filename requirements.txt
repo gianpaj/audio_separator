@@ -1,6 +1,6 @@
 soundfile
 librosa
-torch==2.5.1
+torch==2.8.0
 pedalboard
 yt-dlp
 tqdm
